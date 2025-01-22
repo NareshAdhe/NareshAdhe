@@ -31,7 +31,6 @@
 ### 📫 How to Reach Me
 - Email: **nareshadhe@gmail.com**
 - LinkedIn: [Naresh Adhe](https://www.linkedin.com/in/naresh-adhe-3b38b4292)
-- Twitter: [@KingHakAi](https://twitter.com/kinghakai)
 - Instagram: [@naresh_adhe_](https://www.instagram.com/naresh_adhe_)
 - CodeChef: [Naresh Adhe](https://www.codechef.com/users/naresh_adhe)
 - LeetCode: [Naresh Adhe](https://leetcode.com/u/naresh_adhe)
