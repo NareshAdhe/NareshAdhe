@@ -9,9 +9,9 @@
 
 ### 🛠️ Skills
 - **Programming Languages**: C, C++, JavaScript
-- **Web Development**: HTML, CSS, Tailwind CSS
-- **Databases**: MySQL, MongoDB, Firebase
-- **Tools & Frameworks**: Android Studio, Figma, Git
+- **Web Development**: HTML, CSS, Tailwind CSS, React, NodeJs, ExpressJs
+- **Databases**: MySQL, MongoDB
+- **Tools & Frameworks**: Canva, Postman, Figma, Git, Github, Linux, Docker, Kubernetes
 - **Other Skills**: Data Structures & Algorithms (650+ questions solved), Problem-Solving, DevOps Fundamentals
 
 ---
