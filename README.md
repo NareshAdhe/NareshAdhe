@@ -60,7 +60,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshadhe&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nareshadhe&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshadhe" alt="GitHub Streak" />
-</p>
